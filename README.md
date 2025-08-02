@@ -81,10 +81,6 @@ http://127.0.0.1:8000/
 ![registration2](https://github.com/user-attachments/assets/6efd89e8-82b7-43d7-bced-b3bc9251694f)
 
 
-**Greetings Page**
-
-<img width="953" alt="greetings" src="https://github.com/user-attachments/assets/38139a42-d988-43ce-b971-49041f6433b9" />
-
 
 
 
